@@ -11,7 +11,7 @@ https://www.tooplate.com/view/2134-gotto-job
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #5d52ba;
+  --primary-color:                #198754;
   --secondary-color:              #0dcaf0;
   --section-bg-color:             #f0f8ff;
   --custom-btn-bg-color:          #f65129;
@@ -482,7 +482,7 @@ nav[aria-label="breadcrumb"] {
 
 .navbar-nav .nav-link {
   display: inline-block;
-  color: var(--p-bg-color);
+  color: #198754;
   font-size: var(--menu-font-size);
   font-weight: var(--font-weight-medium);
   position: relative;
