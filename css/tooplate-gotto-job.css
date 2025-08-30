@@ -704,6 +704,7 @@ nav[aria-label="breadcrumb"] {
   margin-left: 5px;
   padding: 8px 12px;
   padding-bottom: 6px;
+  text-transform: uppercase;
 }
 
 .badge-level {
